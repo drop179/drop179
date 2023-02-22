@@ -22,3 +22,6 @@ Here are the projects included in this repository:
 * Project 2: Property Management Salesforce App
 * Project 3: Salesforce App for Autopart retail business
 * Project 4: HTML & CSS project
+
+
+My Linkedin profile: https://www.linkedin.com/in/mesmebestwick/
