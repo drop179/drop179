@@ -1,16 +1,23 @@
-### Hi there 👋
+#### About me
+My name is Mesme Bestwick and I am a software developer. I possess strong technical skills in various programming languages including Python, HTML, CSS, JavaScript, and Apex. Additionally, I have experience with web development frameworks, database management with SQL, and version control using Git.
 
-<!--
-**drop179/drop179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have gained hands-on experience in software development methodologies and best practices, including Test Driven Development (TDD) and writing unit skills. Furthermore, I have experience designing, developing, and deploying Apex classes, Apex Triggers, and Lightning Web Components (LWC) for various functional needs in Salesforce applications.
 
-Here are some ideas to get you started:
+As a former independent educational consultant, I have excellent communication skills and am able to facilitate efficient communication between clients and their applied institutions. Additionally, my experience as a health department manager has honed my ability to implement policies, procedures, and best practices focused on maintaining compliance with industry protocols and recommendations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In terms of technology, I am proficient in MySQL, Git, Salesforce Sales & Service Clouds, and have experience with Fork, Workbench, Agile Methodologies, and JIRA. I am also certified as a Salesforce Platform Developer I, Salesforce App Builder, and Salesforce Administrator.
+
+Overall, I am an effective communicator, critical thinker, and great team player with a passion for problem-solving. My strong technical skills are complemented by my effective communication and time management skills, making me a valuable addition to any team.
+
+
+#### My Personal Repository
+
+This repository contains various projects and code samples that I have worked on. It's a place for me to store and showcase my work and skills as a developer.
+
+## Projects
+
+Here are the projects included in this repository:
+* Project 1: A Python script that webscrapes Shoes Inventory System
+* Project 2: Property Management Salesforce App
+* Project 3: Salesforce App for Autopart retail business
+* Project 4: HTML & CSS project
