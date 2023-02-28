@@ -11,12 +11,12 @@ In terms of technology, I am proficient in MySQL, Git, Salesforce Sales & Servic
 Overall, I am an effective communicator, critical thinker, and great team player with a passion for problem-solving. My strong technical skills are complemented by my effective communication and time management skills, making me a valuable addition to any team.
 
 
-*🔭 I’m currently working on Projects using Python and SQL.
-*🌱 I'm currently working on Start-up.
-*👯 Part of Developer Community.
-*💬 Ask me anything. I do enjoy talking to people.
-*😄 Things I love: new technology & innovations, Web 3, communicate with machines as well as with people, explore new places.
-*⚡ Fun fact: A crocodile cannot stick its tongue out.
+*🔭 I’m currently working on Projects using Python and SQL.*
+*🌱 I'm currently working on Start-up.*
+*👯 Part of Developer Community.*
+*💬 Ask me anything. I do enjoy talking to people.*
+*😄 Things I love: new technology & innovations, Web 3, communicate with machines as well as with people, explore new places.*
+*⚡ Fun fact: A crocodile cannot stick its tongue out.*
 
 
 #### My Personal Repository
