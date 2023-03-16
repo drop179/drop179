@@ -2,7 +2,7 @@
 #### About me
 My name is Mesme Bestwick and I am a software developer. I possess strong technical skills in various programming languages including Python, HTML, CSS, JavaScript, and Apex. Additionally, I have experience with web development frameworks, database management with SQL, and version control using Git.
 
-I have gained hands-on experience in software development methodologies and best practices, including Test Driven Development (TDD) and writing unit skills. Furthermore, I have experience designing, developing, and deploying Apex classes, Apex Triggers, and Lightning Web Components (LWC) for various functional needs in Salesforce applications.
+I have gained hands-on experience in software development methodologies and best practices and writing unit skills. Furthermore, I have experience designing, developing, and deploying Apex classes, Apex Triggers, and Lightning Web Components (LWC) for various functional needs in Salesforce applications.
 
 As a former independent educational consultant, I have excellent communication skills and am able to facilitate efficient communication between clients and their applied institutions. Additionally, my experience as a health department manager has honed my ability to implement policies, procedures, and best practices focused on maintaining compliance with industry protocols and recommendations.
 
