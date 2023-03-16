@@ -12,7 +12,7 @@ Overall, I am an effective communicator, critical thinker, and great team player
 
 
 *🔭 I’m currently working on Projects using Python and SQL.*
-*🌱 I'm currently working on Start-up.*
+*🌱 
 *👯 Part of Developer Community.*
 *💬 Ask me anything. I do enjoy talking to people.*
 *😄 Things I love: new technology & innovations, Web 3, communicate with machines as well as with people, explore new places.*
