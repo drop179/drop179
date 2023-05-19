@@ -34,6 +34,6 @@ Here are the projects included in this repository:
 📫 How to reach me:
 My Linkedin profile: https://www.linkedin.com/in/mesmebestwick/
 
-My CV: https://github.com/drop179/drop179/blob/main/MBestwick_Software_Developer.pdf
+My CV: https://github.com/drop179/drop179/files/11519718/MBestwick_Software_Developer.pdf
 
 
